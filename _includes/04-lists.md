@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Test markdown list
+[] Step 1
+[] Step 2
+[] Profit
